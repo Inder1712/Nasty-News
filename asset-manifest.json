@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/India/static/css/main.4a47eb9f.css",
-    "main.js": "/India/static/js/main.c4ff8027.js",
-    "static/media/Alt.png": "/India/static/media/Alt.6428e377161a3c8d8681.png",
-    "index.html": "/India/index.html",
-    "main.4a47eb9f.css.map": "/India/static/css/main.4a47eb9f.css.map",
-    "main.c4ff8027.js.map": "/India/static/js/main.c4ff8027.js.map"
+    "main.css": "/Nasty-News/India/static/css/main.4a47eb9f.css",
+    "main.js": "/Nasty-News/India/static/js/main.b65b77ff.js",
+    "static/media/Alt.png": "/Nasty-News/India/static/media/Alt.6428e377161a3c8d8681.png",
+    "index.html": "/Nasty-News/India/index.html",
+    "main.4a47eb9f.css.map": "/Nasty-News/India/static/css/main.4a47eb9f.css.map",
+    "main.b65b77ff.js.map": "/Nasty-News/India/static/js/main.b65b77ff.js.map"
   },
   "entrypoints": [
     "static/css/main.4a47eb9f.css",
-    "static/js/main.c4ff8027.js"
+    "static/js/main.b65b77ff.js"
   ]
 }
