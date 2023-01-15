@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Nasty-News/static/css/main.4a47eb9f.css",
+    "main.js": "/Nasty-News/static/js/main.37c00faa.js",
+    "static/media/Alt.png": "/Nasty-News/static/media/Alt.6428e377161a3c8d8681.png",
+    "index.html": "/Nasty-News/index.html",
+    "main.4a47eb9f.css.map": "/Nasty-News/static/css/main.4a47eb9f.css.map",
+    "main.37c00faa.js.map": "/Nasty-News/static/js/main.37c00faa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a47eb9f.css",
+    "static/js/main.37c00faa.js"
+  ]
+}
